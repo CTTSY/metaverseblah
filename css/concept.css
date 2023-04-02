@@ -496,7 +496,7 @@ body {
 #b {
 padding-bottom: 30px;
 	animation: slide-in 1s forwards;
- 
+ padding-top: 30px;
 }
 #b h2 {
 	color: #178BFF;
