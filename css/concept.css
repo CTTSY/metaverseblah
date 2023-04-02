@@ -283,7 +283,7 @@ nav {
 #b {
 	padding: 80px;
 	animation: slide-in 1s forwards;
- 
+ 	padding-bottom: 30px;
 }
 #b h2 {
 	color: #178BFF;
